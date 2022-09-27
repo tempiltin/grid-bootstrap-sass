@@ -4,4 +4,20 @@
   box-sizing: border-box;
   list-style: none;
   text-decoration: none;
+}
+
+.carousel-item {
+  width: 100%;
+  height: 500px;
+  border: 10px solid blue;
+  overflow: hidden;
+  padding: 10px;
+}
+.carousel-item img {
+  width: 100% !important;
+}
+
+.position {
+  position: absolute;
+  top: 0;
 }/*# sourceMappingURL=style.css.map */
